@@ -13,3 +13,4 @@ Simples Script para Gerar e validar números aleatórios de CPF.
 
 **Telas do Programa:**
 
+[Tela Principal](https://user-images.githubusercontent.com/109303611/186184034-407191ac-5435-4b48-bb0a-d4ed5efd5039.JPG)
