@@ -1,4 +1,4 @@
-# Gerador_Validador_CPF
+# Gerador e Validador de CPF
 
 ### Resumo versão 1.0:
 
