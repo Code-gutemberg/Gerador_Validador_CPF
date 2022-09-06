@@ -8,7 +8,7 @@ print('======== GERADOR DE CPF ========')
 numero = str(randint(10000000000, 99999999999))
 gerador_cpf(numero)
 
-# validador do número gerado na função anterior  
-print('=' * 32)   
+# validador do número gerado na função anterior
+print('=' * 32)
 validador_cpf(gerador_cpf(numero))
-print('=' * 32)   
+print('=' * 32)
